@@ -1,0 +1,23 @@
+.circle {
+    position: absolute;
+    width: 50px; height: 30px;
+	border-radius: 50%;
+    border-style: ridge; border-color: black;
+	background: Chocolate;
+	text-align:center;	
+}
+.circle span {
+	line-height:30px;
+}
+
+.circle_center {
+    position: absolute;
+    width: 30px; height: 30px;
+    border-radius: 50%;
+    border-style: ridge; border-color: black;
+	background: Blue;
+	text-align:center;	
+}
+.circle_center span {
+	line-height:30px;
+}

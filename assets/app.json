@@ -1,0 +1,29 @@
+{
+    "plugins": {
+        "jQuery": {
+            "jquery-js": [
+                "jquery-min.js"
+            ]
+        },
+        "jQuery Mobile": {
+            "jquery-mobile-js": [
+                "jquery-mobile-min.js"
+            ],
+            "jquery-mobile-css": [
+                "jquery-mobile.css"
+            ]
+        },
+        "monaca.js": [
+
+        ],
+        "phonegap\/cordova.js": [
+
+        ]
+    },
+    "splash": {
+        "android": {
+            "background": "#cccccc"
+        }
+    },
+    "version": "1.0"
+}

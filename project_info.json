@@ -1,0 +1,14 @@
+{
+    "title-ja": "",
+    "title-en": "aa",
+    "description-ja": "",
+    "description-en": "",
+    "category": "template",
+    "platform": [
+        "android",
+        "ios",
+        "winrt"
+    ],
+    "name": "generated-20140313152652-530545337e21936c457b5d49",
+    "version": 1
+}
